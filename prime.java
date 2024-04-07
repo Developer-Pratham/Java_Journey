@@ -11,7 +11,7 @@ public class prime {
                 temp++;
             }
         }
-        if (temp<=2) {
+        if (temp==2) {
             System.out.println("The number "+num+" is Prime");
         }
         else{
